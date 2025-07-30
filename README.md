@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammadabdulmannan" target="_blank">LinkedIn</a> | 
   <a href="https://twitter.com/muhammadabdulmannan" target="_blank">Twitter</a> | 
   <a href="https://www.facebook.com/muhammadabdulmannan" target="_blank">Facebook</a>
 </p>
