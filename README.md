@@ -46,6 +46,7 @@ Here's the arsenal I use to turn ideas into reality:
 - **Real-Time Expertise**: I excel at building real-time features with **raw WebSocket** for lightweight, efficient frontend communication and **Socket.IO** for robust, scalable applications like chat or live updates.
 - **Collaborative Spirit**: I thrive in team environments, bringing enthusiasm and a proactive approach to every project.
 - **Problem Solver**: I love tackling challenges, whether it's debugging a tricky issue or designing a sleek UI.
+- **Most Important**: I'm never afraid to dive into new technologies whatever that is if needed i am open to learn.
 
 ---
 
