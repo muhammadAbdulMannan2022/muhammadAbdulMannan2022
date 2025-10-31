@@ -1,40 +1,31 @@
 # Hey, I'm Muhammad Abdul Mannan! 👋
 
 <p align="center">
-  <a href="https://github.com/muhammadAbdulMannan2022">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadAbdulMannan2022&theme=radical&hide_border=true" alt="Muhammad's GitHub Streak" width="450" />
-  </a>
-  <br />
-  <a href="https://github.com/muhammadAbdulMannan2022">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammadAbdulMannan2022&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="450" />
-  </a>
-  <br />
-  <a href="https://github.com/muhammadAbdulMannan2022">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadAbdulMannan2022&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350" />
-  </a>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadAbdulMannan2022&theme=highcontrast&hide_border=true" alt="Muhammad's GitHub Streak" width="400" /> -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadAbdulMannan2022)](https://git.io/streak-stats)
+  
 </p>
 
----
+I'm a **passionate Frontend Developer** from Dhaka, Bangladesh, with a flair for crafting **visually stunning** and **highly interactive** web and mobile applications. My focus is on creating seamless user experiences with **React**, **React Native**, and **TypeScript**, enhanced by my expertise in **raw WebSocket** for real-time frontend communication and **Socket.IO** for robust real-time applications. I also bring a solid understanding of backend technologies like **Node.js** and **MongoDB** to the table. My journey in tech is fueled by curiosity, creativity, and a relentless drive to build solutions that make an impact.
 
-I'm a **passionate Frontend Developer** from Dhaka, Bangladesh, with a flair for crafting **visually stunning** and **highly interactive** web and mobile applications.  
-My focus is on creating seamless user experiences with **React**, **React Native**, and **TypeScript**, enhanced by my expertise in **raw WebSocket** and **Socket.IO** for real-time communication.  
-I also bring a solid understanding of backend technologies like **Node.js** and **MongoDB**.  
-My journey in tech is fueled by curiosity, creativity, and a relentless drive to build solutions that make an impact.
+The stats above? They're a glimpse of my dedication—showcasing my coding streak and achievements that reflect my commitment to delivering **pixel-perfect**, **performant** applications.
 
 ---
 
 ### 🚀 What I'm All About
 
-- **Frontend Excellence**: Building responsive, intuitive, and dynamic interfaces with **React**, **TypeScript**, and **Tailwind CSS**.  
-- **Mobile App Development**: Creating cross-platform mobile apps with **React Native** and **Expo** that feel native and look awesome.  
-- **Real-Time Mastery**: Implementing real-time features using **raw WebSocket** for high-performance communication and **Socket.IO** for scalable real-time apps.  
-- **Backend Know-How**: Leveraging **Node.js**, **Express**, and **MongoDB** to support robust, scalable systems.  
-- **Growth Mindset**: Constantly learning and experimenting with new tools to stay ahead.  
-- **Open-Source Enthusiast**: Actively contributing to projects to collaborate and give back to the dev community.
+- **Frontend Excellence**: Building responsive, intuitive, and dynamic interfaces with **React**, **TypeScript**, and **Tailwind CSS**.
+- **Mobile App Development**: Creating cross-platform mobile apps with **React Native** and **Expo** that feel native and look awesome.
+- **Real-Time Mastery**: Implementing real-time features using **raw WebSocket** on the frontend for low-level, high-performance communication and **Socket.IO** for scalable, real-time applications.
+- **Backend Know-How**: Leveraging **Node.js**, **Express**, and **MongoDB** to support robust, scalable systems when needed.
+- **Growth Mindset**: Constantly learning and experimenting with new tools to stay ahead in the fast-evolving tech world.
+- **Open-Source Enthusiast**: Actively contributing to projects to collaborate and give back to the developer community.
 
 ---
 
 ### 🛠️ My Tech Toolbox
+
+Here's the arsenal I use to turn ideas into reality:
 
 | **Frontend** | **Mobile** | **Backend** | **Database** | **Tools & Platforms** |
 |--------------|------------|-------------|--------------|-----------------------|
@@ -51,21 +42,20 @@ My journey in tech is fueled by curiosity, creativity, and a relentless drive to
 
 ### 🌟 Why Work With Me?
 
-- 🎯 **User-Centric Design**: I prioritize creating interfaces that are intuitive and delightful to use.  
-- 🧩 **Clean Code Advocate**: I write modular, maintainable, and scalable code.  
-- ⚡ **Real-Time Expertise**: Building chat, notifications, and live updates with **WebSocket** & **Socket.IO**.  
-- 🤝 **Collaborative Spirit**: Team player who loves bringing ideas to life.  
-- 🧠 **Problem Solver**: Debugging, optimizing, and creating sleek UIs with ease.  
-- 🚀 **Always Evolving**: Never afraid to learn and adapt to new tech.
+- **User-Centric Design**: I prioritize creating interfaces that are intuitive, accessible, and delightful to use.
+- **Clean Code Advocate**: I write modular, maintainable, and scalable code that stands the test of time.
+- **Real-Time Expertise**: I excel at building real-time features with **raw WebSocket** for lightweight, efficient frontend communication and **Socket.IO** for robust, scalable applications like chat or live updates.
+- **Collaborative Spirit**: I thrive in team environments, bringing enthusiasm and a proactive approach to every project.
+- **Problem Solver**: I love tackling challenges, whether it's debugging a tricky issue or designing a sleek UI.
+- **Most Important**: I'm never afraid to dive into new technologies whatever that is if needed i am open to learn.
 
 ---
 
 ### 🌱 Let's Build Something Amazing
 
-I'm excited to collaborate on impactful projects and create amazing frontend experiences.  
-Got a cool idea or a challenge? Let’s make it happen!
+I'm excited about opportunities to create impactful frontend experiences and collaborate on innovative projects. Got a cool idea or a challenging problem? Let's make it happen!
 
-📫 **Reach out** → [muhammadabdulmannan21@gmail.com](mailto:muhammadabdulmannan21@gmail.com)
+📫 **Reach out**: [muhammadabdulmannan21@gmail.com](mailto:muhammadabdulmannan21@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadAbdulMannan2022&style=flat-square&color=blue" alt="Profile Views" />
