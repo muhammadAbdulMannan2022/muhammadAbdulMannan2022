@@ -2,8 +2,7 @@
 
 <p align="center">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadAbdulMannan2022&theme=highcontrast&hide_border=true" alt="Muhammad's GitHub Streak" width="400" /> -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadAbdulMannan2022)](https://git.io/streak-stats)
-  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=dark&exclude_days=Sat" alt="GitHub Streak" /></a>
 </p>
 
 I'm a **passionate Frontend Developer** from Dhaka, Bangladesh, with a flair for crafting **visually stunning** and **highly interactive** web and mobile applications. My focus is on creating seamless user experiences with **React**, **React Native**, and **TypeScript**, enhanced by my expertise in **raw WebSocket** for real-time frontend communication and **Socket.IO** for robust real-time applications. I also bring a solid understanding of backend technologies like **Node.js** and **MongoDB** to the table. My journey in tech is fueled by curiosity, creativity, and a relentless drive to build solutions that make an impact.
